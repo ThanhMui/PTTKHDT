@@ -20,3 +20,5 @@ function tinhGiaithua($n) {
  
 echo "Tổng là: ".tinhTong(3);
 ?>
+function(){
+}

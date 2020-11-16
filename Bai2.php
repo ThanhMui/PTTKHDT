@@ -18,5 +18,14 @@ function tinhGiaithua($n) {
      return $Tong;
  }
  
+<<<<<<< HEAD
 echo "Tổng là: ".tinhTong(3);
 ?>
+=======
+
+ echo "Tổng là: ".tinhTong(3);
+ function haha(){
+     
+ }
+?>
+>>>>>>> conbo/conheo
